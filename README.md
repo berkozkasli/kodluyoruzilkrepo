@@ -27,4 +27,4 @@ Pull register kabul edilir. Büyük değişiklikler için, lütfen önce neyi de
 
 
 
-![Proje Fotoğrafı](kodluyoruz.png")
+![Proje Fotoğrafı](kodluyoruz.png)
